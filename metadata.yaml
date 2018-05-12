@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34071'
     url: http://www.gutenberg.org/2009/agents/34071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29674#Higher-Education-and-Business-Standards
 gutenberg_issued: '2009-08-12'
 gutenberg_type: Text
 identifiers:
